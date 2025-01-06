@@ -6,11 +6,11 @@ Project Structure
 
 - Sequential Processing: Processes the entire dataset in a single thread.
 
-- Parallel Processing: Utilizes:
+- Parallel Processing:
 
-- multiprocessing for CPU-based parallelism.
+  - multiprocessing for CPU-based parallelism.
 
-- Dask for distributed and parallel data handling.
+  - Dask for distributed and parallel data handling.
 
 Requirements
 
